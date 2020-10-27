@@ -13,7 +13,7 @@ def game_hash
           rebounds: 12,
           assists: 12,
           steals: 3,
-          blocks 1,
+          blocks: 1,
           slam_dunks: 1
         },
         {
@@ -24,7 +24,7 @@ def game_hash
           rebounds: 12,
           assists: 12,
           steals: 12,
-          blocks 12,
+          blocks: 12,
           slam_dunks: 7
         },
         {
@@ -35,7 +35,7 @@ def game_hash
           rebounds: 19,
           assists: 10,
           steals: 3,
-          blocks 1,
+          blocks: 1,
           slam_dunks: 15
         },
         {
@@ -46,7 +46,7 @@ def game_hash
           rebounds: 11,
           assists: 6,
           steals: 3,
-          blocks 8,
+          blocks: 8,
           slam_dunks: 5
         },
         {
@@ -57,7 +57,7 @@ def game_hash
           rebounds: 2,
           assists: 2,
           steals: 4,
-          blocks 11,
+          blocks: 11,
           slam_dunks: 1
         },
       ]
